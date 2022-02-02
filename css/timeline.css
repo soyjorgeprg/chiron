@@ -1,6 +1,6 @@
 body{
-    margin-top:20px;
-    background:#eee;
+    /*margin-top:20px;*/
+    background:#fff;
   }
   
   .timeline {
@@ -77,7 +77,7 @@ body{
   .timeline .timeline-body {
     margin-left: 23%;
     margin-right: 17%;
-    background: #fff;
+    background: #eee;
     position: relative;
     padding: 20px 25px;
     border-radius: 6px
@@ -151,7 +151,7 @@ body{
   }
   
   .timeline-footer {
-    background: #fff;
+    background: #eee;
     border-top: 1px solid #e2e7ec;
     padding-top: 15px
   }
